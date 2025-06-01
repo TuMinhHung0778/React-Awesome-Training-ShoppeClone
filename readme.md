@@ -2,8 +2,6 @@
 
 Dưới đây là những kiến thức của Javascript mà trong React thường dùng.
 
-Nếu bạn đã nắm chắc được những kiến thức này có thể bỏ qua chương này
-
 - Destructuring, Rest parameter,
 Spread Syntax
 - Tham trị và tham chiếu
